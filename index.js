@@ -1,4 +1,5 @@
-function add(a, B) {
-  var a = 1
-  return add();
+function add(x, y) {
+    var xx = 1;
+    var yy = 80;
+    return add()
 }
